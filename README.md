@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karollyne Silva.
 - 👀 I’m interested in networking and learn new technologies.
-- 🌱 I’m currently learning Flutter and Dart.
+- 🌱 I’m currently studying Flutter and Dart.
 
 <!---
 kmendess/kmendess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
